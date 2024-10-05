@@ -1,4 +1,4 @@
-### Reflexees - C++ SFML Game
+# Reflexees - C++ SFML Game
 
 **Reflexees** is a reaction-based game developed in C++ as part of my semester project for the Computer Systems Engineering program at Dawood University of Engineering and Technology. The game was built using the **SFML (Simple and Fast Multimedia Library)**, focusing on enhancing quick reflexes and precision timing.
 
